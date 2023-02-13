@@ -1,0 +1,16 @@
+.aj{
+
+    background-color: rgb(147, 246, 18);    
+    text-align:left ;
+ }
+
+img {
+ border-radius: 8px;
+}
+hd1{
+    text-align: center;
+    
+}
+grad {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  }
