@@ -1,16 +1,74 @@
 .aj{
 
-    background-color: rgb(147, 246, 18);    
+    background-color:#b6cfe1;
     text-align:left ;
  }
 
 img {
  border-radius: 8px;
+ margin-bottom:0px;
+  
 }
-hd1{
-    text-align: center;
-    
+.hd{
+    text-align:left;
+    padding: 60px;
+    padding-bottom: 0px;
+    margin-bottom:300 px;
+    margin-top: 0px;
+    color: #082535;
 }
-grad {
-    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+
+  ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #11456a;
   }
+  li{
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #92b5cf;
+  }
+  .ab{
+       text-align: center;
+      color:#11456a ;
+       padding: 25px;
+       margin: 10px;
+  }
+  /*--------ABOUT----------------------------------------*/
+  .abt{
+        background-color: #11456a;
+  }
+  .at{
+     text-align: left;
+     color: aliceblue;
+  }
+/*--------ABOUT-END---------------------------------------*/
+
+/*--------PICTURES----------------------------------------*/
+.abt{
+  background-color: #11456a;
+}
+.at{
+text-align: left;
+color: aliceblue;
+ 
+}
+/*--------PICTURES-END---------------------------------------*/
+/*--------CONTACT----------------------------------------*/
+.abt{
+  background-color: #11456a;
+}
+.at{
+text-align: left;
+color: aliceblue;
+/*--------CONTACT-END---------------------------------------*/
